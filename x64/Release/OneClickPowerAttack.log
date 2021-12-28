@@ -1,0 +1,7 @@
+﻿  main.cpp
+     Creating library D:\SteamLibrary\steamapps\common\Skyrim Special Edition\src\skse64_20017\skse64\x64\Release\OneClickPowerAttack.lib and object D:\SteamLibrary\steamapps\common\Skyrim Special Edition\src\skse64_20017\skse64\x64\Release\OneClickPowerAttack.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1049 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OneClickPowerAttack.vcxproj -> D:\SteamLibrary\steamapps\common\Skyrim Special Edition\src\skse64_20017\skse64\x64\Release\OneClickPowerAttack.dll
